@@ -62,7 +62,8 @@ I'm an aspiring software developer passionate about creating innovative solution
 ## 🔗 Connect With Me  
 
 - [LinkedIn](https://www.linkedin.com/in/fauz-ahmed/)  
-- [Email](mailto:fauzahmed2@gmail.com)  
+- [Email](mailto:fauzahmed2@gmail.com)
+- [Medium](https://medium.com/@fauzahmed2)
 
 ---
 
