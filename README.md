@@ -22,6 +22,9 @@ I'm an aspiring software developer passionate about creating innovative solution
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white" alt="JavaFX" />
+
 </p>
 
 ### **Backend & Databases**  
